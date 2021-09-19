@@ -40,7 +40,7 @@ public class Task08_4 {
             System.out.println("элемент находиться в массиве в позиции " + pos);
 
         } else {
-            System.out.println("элемента нет в массиве");
+            System.out.println("элемента нет в этом массиве");
         }
     }
 
